@@ -22,3 +22,4 @@ To get a local copy of this project up and running, follow these steps:
 The jumpscare effect is triggered by clicking the "Start the Experience" button. When clicked, a sound will play, and an image will appear instantly. The image and sound assets can be customized by replacing the respective files in the `assets` folder.
 
 Feel free to modify and customize the code to suit your requirements 😈
+Redeploying the site
